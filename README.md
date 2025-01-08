@@ -140,5 +140,5 @@ The application consists of two main components:
 
 - [NVIDIA NGC Parakeet Documentation](https://build.nvidia.com/nvidia/parakeet-ctc-1_1b-asr/docker)
 - [NVIDIA NGC MEGATRON-1B-NMT Documentation](https://build.nvidia.com/nvidia/megatron-1b-nmt/docker)
-- [Original ASR Setup Guide](../automatic-speech-recognition/README.md)
-- [Original Language Translator Setup Guide](../language-translator/README.md)
+- [Original ASR Setup Guide](https://github.com/hivenetes/ai-ml-bootstrapper/tree/main/automatic-speech-recognition)
+- [Original Language Translator Setup Guide](https://github.com/hivenetes/ai-ml-bootstrapper/tree/main/language-translator)
