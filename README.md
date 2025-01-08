@@ -8,8 +8,8 @@ This guide provides steps for setting up a real-time speech translation web inte
 
 Before setting up this project, you need to have:
 
-1. **ASR Server**: Follow the setup instructions in [ai-ml-bootstrapper/automatic-speech-recognition](https://github.com/hivenetes/ai-ml-bootstrapper/automatic-speech-recognition/README.md)
-2. **Language Translator Server**: Follow the setup instructions in [ai-ml-bootstrapper/language-translator](https://github.com/hivenetes/ai-ml-bootstrapper/language-translator/README.md)
+1. **ASR Server**: Follow the setup instructions in [ai-ml-bootstrapper/automatic-speech-recognition](https://github.com/hivenetes/ai-ml-bootstrapper/tree/main/automatic-speech-recognition)
+2. **Language Translator Server**: Follow the setup instructions in [ai-ml-bootstrapper/language-translator](https://github.com/hivenetes/ai-ml-bootstrapper/tree/main/language-translator)
 3. **Client Dependencies**:
    - Python 3.8+
    - Node.js 16+
